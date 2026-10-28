@@ -1,0 +1,21 @@
+{
+  "full_name": "Nama Lengkap Kamu",
+  "phone": "+62 812-3456-7890",
+  "email": "kamu@gmail.com",
+  "portfolio_or_linkedin": "https://linkedin.com/in/username",
+  "education_background": "S1 Manajemen Bisnis / Teknik / Komunikasi",
+  "university": "Universitas Indonesia",
+  "target_roles": [
+    "Project Coordinator",
+    "Business Development",
+    "Account Executive",
+    "Operations Specialist"
+  ],
+  "target_locations": [
+    "Indonesia",
+    "Jakarta",
+    "Bandung"
+  ],
+  "cv_drive_file_id": "MASUKKAN_ID_FILE_GOOGLE_DRIVE_CV_KAMU_DISINI",
+  "google_sheet_url": "MASUKKAN_LINK_GOOGLE_SHEET_BARU_KAMU_DISINI"
+}
